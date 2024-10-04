@@ -28,9 +28,9 @@ Esta ferramenta permite que você teste a resiliência de sua aplicação web en
    pip install -r requirements.txt
 
 3. **Executar a ferramenta**:
-  ```bash
-   python3 ddos7.py
-```
+   ```bash
+   python3 ddos7.py 
+
 ## Uso
   
 Abrir a Interface: Após iniciar a ferramenta, uma janela gráfica aparecerá.
