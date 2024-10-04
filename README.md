@@ -1,4 +1,4 @@
-# DDoS Layer 7 Testing Tool
+# DDoS Layer 7 Tool
 
 Ferramenta gráfica desenvolvida em **Python** para simulação de ataques **DDoS** (Distributed Denial of Service) na **camada 7** (Layer 7), com o objetivo de testar a resiliência de aplicações web. Através de uma interface amigável, você pode facilmente configurar e executar testes de carga para avaliar a capacidade do servidor em lidar com grandes volumes de tráfego malicioso.
 
@@ -9,10 +9,6 @@ Ferramenta gráfica desenvolvida em **Python** para simulação de ataques **DDo
 - **Locust como engine**: Utiliza o **Locust**, uma ferramenta poderosa de teste de carga, para gerar requisições em massa e simular ataques de alta frequência.
 - **Customização da carga de ataque**: Defina o número de usuários simultâneos e a taxa de requisições por segundo, personalizando o teste de acordo com a necessidade.
 - **Executado em segundo plano**: O ataque é iniciado em uma thread separada para que a interface continue responsiva.
-
-## Captura de Tela
-
-![Screenshot da Interface](https://link-para-screenshot.png)
 
 ## Como Funciona
 
