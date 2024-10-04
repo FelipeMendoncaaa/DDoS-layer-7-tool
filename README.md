@@ -35,5 +35,5 @@ Esta ferramenta permite que você teste a resiliência de sua aplicação web en
   
 Abrir a Interface: Após iniciar a ferramenta, uma janela gráfica aparecerá.
 Inserir a URL: Digite o URL de destino para o teste de carga.
-Iniciar o ataque: Clique em "Iniciar!" e o teste começará. Um pop-up será mostrado quando o ataque for iniciado.
+Iniciar o ataque: Clique em "Iniciar!" e em "OK" e o teste começará. Um pop-up será mostrado quando o ataque for iniciado.
 Monitoramento em tempo real: A ferramenta rodará o teste em segundo plano, utilizando o Locust para gerar o tráfego de ataque.
